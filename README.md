@@ -26,3 +26,13 @@ Antes de liberar la versión 1.3, el equipo debe comprobar que:
 ## Estado
 
 Release Candidate - Pendiente de revisión de calidad.
+
+## Checklist pre-release 1.3
+
+Antes de liberar la versión se debe verificar:
+
+1. Repositorio actualizado.
+2. Configuración correcta.
+3. Árbol de trabajo sin modificaciones accidentales.
+4. Historial de cambios revisado.
+5. Evidencia de revisión registrada.
