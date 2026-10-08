@@ -21,6 +21,11 @@ function validarTicket(ticket) {
     };
 }
 
+function nueva(){
+    console.log("Nueva función agregada en ticketValidator.js");
+}
+
 module.exports = {
-    validarTicket
+    validarTicket,
+    nueva
 };
