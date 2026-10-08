@@ -27,5 +27,5 @@ function nueva(){
 
 module.exports = {
     validarTicket,
-    nueva
+    nuevahola
 };
